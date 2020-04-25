@@ -1,5 +1,5 @@
 services:
 - type: web
-  name: hello-world-clojure-compojure
+  name: hello-clojure-compojure
   env: docker
   healthCheckPath: /health-check
