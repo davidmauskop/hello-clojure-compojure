@@ -1,6 +1,6 @@
 # hello-clojure-compojure
 
-Deploy a 'hello, world' server to [render.com](https://render.com) using
+Deploy a basic server to [render.com](https://render.com) using
 Clojure, with compojure and ring.
 
 ### Deployment
